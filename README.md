@@ -1,3 +1,5 @@
+## Projects
+
 Currently actively working on these projects:
 
 <div>
@@ -15,3 +17,13 @@ Less active projects:
   <a href="https://github.com/homeworkprod/weitersager" title="Weitersager"><img src="https://raw.githubusercontent.com/homeworkprod/homeworkprod/main/images/weitersager.svg" alt="Weitersager logo" width="120" height="120"></a>
   <a href="https://github.com/homeworkprod/syslog2irc" title="syslog2IRC"><img src="https://raw.githubusercontent.com/homeworkprod/homeworkprod/main/images/syslog2irc_480x480.png" alt="syslog2IRC logo" width="120" height="120"></a>
 </div>
+
+
+## Appreciation
+
+If you appreciate my work, please do me a favor and consider [gifting
+trees to the world](https://ecologi.com/homeworkprod).
+
+(And if you choose to sign up yourself, [this referral
+link](https://ecologi.com/homeworkprod?direct=true&r=659932316b887049d65bb503)
+will yield some extra sparkling trees for both of us.)
