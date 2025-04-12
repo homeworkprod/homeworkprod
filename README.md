@@ -23,6 +23,7 @@ Less active projects:
 
 If you appreciate my work, please do me a favor and consider [gifting
 trees to the world](https://ecologi.com/homeworkprod).
+<img src="https://img.shields.io/ecologi/trees/homeworkprod" alt="Ecologi – Trees" width="68" height="20">
 
 (And if you choose to sign up yourself, [this referral
 link](https://ecologi.com/homeworkprod?direct=true&r=659932316b887049d65bb503)
