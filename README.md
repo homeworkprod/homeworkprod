@@ -4,6 +4,7 @@ Currently actively working on these projects:
 
 <div>
   <a href="https://byceps.nwsnet.de/" title="BYCEPS – LAN party platform"><img src="https://raw.githubusercontent.com/homeworkprod/homeworkprod/main/images/byceps.svg" alt="BYCEPS logo" width="120" height="120"></a>
+  <a href="https://lanpartydb.orgatalk.de/" title="LAN Party Database"><img src="https://raw.githubusercontent.com/homeworkprod/homeworkprod/main/images/lanpartydb_512x512.png" alt="LANpartyDB logo" width="120" height="120"></a>
   <a href="https://www.orgatalk.de/" title="OrgaTalk – LAN party organizer community"><img src="https://raw.githubusercontent.com/homeworkprod/homeworkprod/main/images/orgatalk_480x480.png" alt="OrgaTalk logo" width="120" height="120"></a>
   <a href="https://www.northcon.de/" title="NorthCon – Big LAN party in Neumünster, Germany"><img src="https://raw.githubusercontent.com/homeworkprod/homeworkprod/main/images/northcon.svg" alt="NorthCon logo" width="120" height="120"></a>
   <a href="https://www.lanresort.de/" title="LANresort – LAN party in Bungalows, in Bispingen, Germany"><img src="https://raw.githubusercontent.com/homeworkprod/homeworkprod/main/images/lanresort.svg" alt="LANresort logo" width="120" height="120"></a>
